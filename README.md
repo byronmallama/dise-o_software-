@@ -1,2 +1,2 @@
-# dise-o_software-
+# diseno software
 diseño de software 
